@@ -1,1 +1,5 @@
-platform/*
+# ignoro la cartella delle varie piattaforme
+platforms/*
+
+#ignoro i file temporanei creati dagli editor
+*~
