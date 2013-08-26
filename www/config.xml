@@ -2,10 +2,11 @@
 <widget id="com.example.accel" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>exampleAccelerometer</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Mostra i dati letti dall'accelerometro
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="pratesi.maurizio@gmail.com" 
+href="http://phonegap.com">
+        Maurizio Pratesi
     </author>
     <feature name="http://api.phonegap.com/1.0/device" />
     <preference name="permissions" value="none" />
